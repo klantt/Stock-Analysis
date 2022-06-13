@@ -9,7 +9,7 @@
  ![](VBA_Challenge_2017.png)
  ![](VBA_Challenge_2018.png)
  
- ##Summary
+ ## Summary
   1. Disadvantages/Advantages of Refactoring code: 
      - A couple advantages that I noticed while working through this data set was that when refactoring code it seemed to help find bugs and defintely sped up the process of pragramming/ improved the overall quality. 
      - For disadvantages it seems that it does take more time and if time is of the essance I can see it not being as viable especially with bigger applications. 
