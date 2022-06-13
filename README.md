@@ -15,4 +15,4 @@
      - For disadvantages it seems that it does take more time and if time is of the essance I can see it not being as viable especially with bigger applications. 
   2. Pros and Cons of applying refactoring to the original VBA Script
      - Pros that immidietley come to mind is reducing the amount of loops in the code. Hence making the process a bit faster. Also refactoring fro mthe original and making small changes here and there defintely sped up the process and made it to where I was much more time efficient. 
-     - Cons I can think of include its future proofing of the product or file in the sense that it might not be very accessible in other programs and will then have to be rewritten completely in the end. 
+     - Cons I can think of include its future proofing of the product or file in the sense that it might not be very accessible in other programs and will then have to be rewritten completely in the end.  
